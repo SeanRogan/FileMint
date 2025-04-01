@@ -69,7 +69,7 @@ When you're confident everything works, upload to the real PyPI:
 python -m twine upload dist/*
 ```
 
-You'll be prompted for your PyPI username and password.
+You'll be prompted for your PyPI API key.
 
 ### 6. Verify the published package
 
