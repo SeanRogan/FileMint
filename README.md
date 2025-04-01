@@ -1,10 +1,10 @@
-# FileMint (Restructured)
+# FileMint
 
 This is the FileMint package, which provides utilities for generating test files in various formats.
 
 
 ```
-filemint_restructured/      <- Project root
+filemint_package/          <- Project root
 ├── filemint/              <- Python package
 │   ├── __init__.py
 │   ├── generators.py
