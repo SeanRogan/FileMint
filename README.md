@@ -1,4 +1,5 @@
 # FileMint
+https://pypi.org/project/filemint/
 
 This is the FileMint package, which provides utilities for generating test files in various formats.
 
@@ -72,3 +73,6 @@ files = filemint.generate_test_files(output_dir="test_files")
 csv_file = filemint.generate_csv("output_dir", "data.csv", num_rows=20)
 ```
 
+## Publishing to PyPI
+
+See the PUBLISH.md file for detailed instructions on how to publish this package to PyPI. 
