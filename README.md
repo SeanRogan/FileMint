@@ -2,7 +2,6 @@
 
 This is the FileMint package, which provides utilities for generating test files in various formats.
 
-
 ```
 filemint_package/          <- Project root
 ├── filemint/              <- Python package
@@ -16,7 +15,11 @@ filemint_package/          <- Project root
 ├── pyproject.toml         <- Build configuration
 └── other config files...
 ```
-
+## Contributors
+This project is very new and has many ways it can be improved. 
+I welcome all help from the open source community
+If you would like to contribute, please follow the guide found at filemint_package/CONTRIBUTING.md
+Thank you for your interest in contributing to my project.
 ## Running Tests
 
 To run the tests:
