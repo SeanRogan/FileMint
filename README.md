@@ -19,7 +19,8 @@ filemint_package/          <- Project root
 ## Contributors
 This project is very new and has many ways it can be improved. 
 I welcome all help from the open source community
-If you would like to contribute, please follow the guide found at filemint_package/CONTRIBUTING.md
+If you would like to contribute, please follow the guide found here: 
+https://github.com/SeanRogan/FileMint/blob/master/filemint_package/CONTRIBUTING.md
 Thank you for your interest in contributing to my project.
 ## Running Tests
 
