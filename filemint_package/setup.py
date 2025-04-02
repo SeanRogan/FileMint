@@ -37,9 +37,9 @@ setup(
     description="A utility for generating test files in various formats",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="Your Name",
-    author_email="your.email@example.com",
-    url="https://github.com/yourusername/filemint",
+    author="Sean Rogan",
+    author_email="srogan88@gmail.com",
+    url="https://github.com/seanrogan/filemint",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
